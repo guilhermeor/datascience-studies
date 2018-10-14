@@ -3,6 +3,7 @@ from pandas import DataFrame, Series
 
 
 def avg_medal_count():
+    
     '''
     Using the dataframe's apply method, create a new Series called 
     avg_medal_count that indicates the average number of gold, silver,
